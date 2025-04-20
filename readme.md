@@ -1,6 +1,5 @@
 # AI Game with Reinforcement Learning
 
-![game_image](game_screenshot.png)
 
 ## Game Description
 
@@ -35,4 +34,4 @@ The `QNetwork` class is a neural network model used to approximate the Q-value f
 On evaluating the trained AI agent, it reached the goal state 12 times and died 1777 times. The performance of the agent was affected by various factors, such as the game seed, game width and height, goal size, enemy count, game friction, and frames per second (FPS). Experimenting with these factors could improve or degrade the agent's performance.
 
 ### How to run
-Just clone the reposiroty and run `python game.py`.
+run `python game.py`.
